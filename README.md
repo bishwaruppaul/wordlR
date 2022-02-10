@@ -31,4 +31,4 @@ Open a terminal, navigate to the unzipped folder, open a R prompt by typing `R` 
 
 ### Screenshot of the game
 
-![Screenshot of wordlR]()
+![Screenshot of wordlR](https://github.com/bishwaruppaul/wordlR/blob/main/screenshot.png)
